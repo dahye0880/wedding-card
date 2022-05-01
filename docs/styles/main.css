@@ -9759,7 +9759,7 @@ body {
     background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("../images/main-background.jpeg") no-repeat center center;
     background-size: cover;
     background-position: 50%;
-    height: 100vh;
+    height: auto;
     min-height: 480px;
 }
 
